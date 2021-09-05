@@ -1,10 +1,8 @@
 ## React Tic Tac Toe using React Hooks- ReactJS projects
 
-![](demo.gif)
-
 ### Application Demo -
 
-https://iamishuchawla.github.io/react-tic-tac-toe
+http://iamishuchawla.github.io/tic-tac-toe-react
 
 ### Development steps-
 1. Create React App using npx create-react-app
