@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-tic-tac-toe/static/css/main.c9656128.chunk.css",
-    "main.js": "/react-tic-tac-toe/static/js/main.00188562.chunk.js",
-    "main.js.map": "/react-tic-tac-toe/static/js/main.00188562.chunk.js.map",
-    "runtime-main.js": "/react-tic-tac-toe/static/js/runtime-main.81654cbd.js",
-    "runtime-main.js.map": "/react-tic-tac-toe/static/js/runtime-main.81654cbd.js.map",
-    "static/js/2.9ead5ae3.chunk.js": "/react-tic-tac-toe/static/js/2.9ead5ae3.chunk.js",
-    "static/js/2.9ead5ae3.chunk.js.map": "/react-tic-tac-toe/static/js/2.9ead5ae3.chunk.js.map",
-    "index.html": "/react-tic-tac-toe/index.html",
-    "precache-manifest.1e6005f835a2b9f59375a5014efd3c4f.js": "/react-tic-tac-toe/precache-manifest.1e6005f835a2b9f59375a5014efd3c4f.js",
-    "service-worker.js": "/react-tic-tac-toe/service-worker.js",
-    "static/css/main.c9656128.chunk.css.map": "/react-tic-tac-toe/static/css/main.c9656128.chunk.css.map",
-    "static/js/2.9ead5ae3.chunk.js.LICENSE.txt": "/react-tic-tac-toe/static/js/2.9ead5ae3.chunk.js.LICENSE.txt"
+    "main.css": "/tic-tac-toe-react/static/css/main.c9656128.chunk.css",
+    "main.js": "/tic-tac-toe-react/static/js/main.e37df2f6.chunk.js",
+    "main.js.map": "/tic-tac-toe-react/static/js/main.e37df2f6.chunk.js.map",
+    "runtime-main.js": "/tic-tac-toe-react/static/js/runtime-main.259657ed.js",
+    "runtime-main.js.map": "/tic-tac-toe-react/static/js/runtime-main.259657ed.js.map",
+    "static/js/2.9ead5ae3.chunk.js": "/tic-tac-toe-react/static/js/2.9ead5ae3.chunk.js",
+    "static/js/2.9ead5ae3.chunk.js.map": "/tic-tac-toe-react/static/js/2.9ead5ae3.chunk.js.map",
+    "index.html": "/tic-tac-toe-react/index.html",
+    "precache-manifest.856cd89324705b075705fb4f9b692e8a.js": "/tic-tac-toe-react/precache-manifest.856cd89324705b075705fb4f9b692e8a.js",
+    "service-worker.js": "/tic-tac-toe-react/service-worker.js",
+    "static/css/main.c9656128.chunk.css.map": "/tic-tac-toe-react/static/css/main.c9656128.chunk.css.map",
+    "static/js/2.9ead5ae3.chunk.js.LICENSE.txt": "/tic-tac-toe-react/static/js/2.9ead5ae3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.81654cbd.js",
+    "static/js/runtime-main.259657ed.js",
     "static/js/2.9ead5ae3.chunk.js",
     "static/css/main.c9656128.chunk.css",
-    "static/js/main.00188562.chunk.js"
+    "static/js/main.e37df2f6.chunk.js"
   ]
 }
